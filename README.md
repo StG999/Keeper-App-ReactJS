@@ -4,6 +4,8 @@
 
 Welcome to the ReactJS Keeper App! This is a simple front-end application built using the ReactJS library in Node.js. The primary purpose of this app is to serve as a digital keeper for your memos. You can easily add and manage memos, each consisting of a title and a content body.
 
+**Live Deployment: [ReactJS Keeper App](https://keeper-app-react-js-rouge.vercel.app/)**
+
 ## Getting Started
 
 To run this project locally, follow these steps:
